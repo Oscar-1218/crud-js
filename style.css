@@ -1,0 +1,67 @@
+
+.body{
+    background-color: #20232a;
+    margin: 5px;
+    color: #61dafb;
+}
+
+.form, .botonera{
+    display: flex;
+    flex-direction:row;
+    max-width: 800px;
+}
+.form-control{
+    background: #dadfeb;
+}
+.persona{
+    display: flex;
+    flex-direction: row;
+}
+
+.iconEdit{
+    color: rgb(49, 146, 49);
+}
+.iconDel{
+    color: rgb(245, 41, 41);
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.datosPersonas{
+    margin: 10px;
+    color: #dadfeb;
+}
+.table{
+    display: flex;
+    flex-direction: column;
+}
+.title-agre{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Confirma{
+    margin-left: 7px;
+    height: 50px;
+}
+
+.label-input{
+    display: flex;
+    flex-direction: column;
+}
+div.persona{
+    display: flex;
+    align-items: flex-end;
+    color: beige;
+}
+input{
+    background: bisque !important;
+    font-size: larger;
+}
+.nombre{
+    width: 300px ;
+}
+.profesion{
+    width: 200px;
+}

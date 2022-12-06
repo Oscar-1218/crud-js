@@ -1,0 +1,16 @@
+@media(max-width:850px){
+    .form{
+        display: flex;
+        flex-direction: column;
+        /* flex-wrap: nowrap; */
+    }
+    .form-control{
+        max-width: 500px;
+    }
+    
+}
+@media(max-width:500px){
+    .table{
+        flex-direction: column;
+    }
+}

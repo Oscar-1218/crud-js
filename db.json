@@ -1,0 +1,14 @@
+{
+  "personas": [
+    {
+      "nombre": "ariel oscar",
+      "profesion": "programador",
+      "id": "4f9ab82f-8d04-4f8c-a4bd-1da91a6817a7"
+    },
+    {
+      "nombre": "pablo ",
+      "profesion": "mecanico",
+      "id": "831c452b-4b39-4390-be0f-3f04da7043e4"
+    }
+  ]
+}
